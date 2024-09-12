@@ -1,11 +1,8 @@
 # Зависимости
 
-1. Установить [Python](https://www.python.org/)
-2. Установить [Node.js](https://nodejs.org/)
-3. Установить Vue Cli с помощью команды:
-```
-npm install -g @vue/cli
-```
+Необходимо установить:
+1. [Python](https://www.python.org/)
+2. [Node.js](https://nodejs.org/)
 
 # Как запустить
 
