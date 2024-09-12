@@ -1,6 +1,7 @@
 @echo off
 CD frontend
 
-:: Запускаем Vue
-npm run serve
+:: Устанавливаем зависимости и запускаем Vue
+call npm install
+call npm run serve
 pause
